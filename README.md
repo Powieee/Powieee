@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Powieee
-- 👀 I’m interested in helping game developers fix bugs and hacks (I make hacks and send them to developers so they can fix them)
+- 👀 I’m interested in helping game developers fix bugs and hacks (I try to make hacks and send them to developers so they can fix them)
 - 🌱 I’m currently learning reverse engineering or deobfuscating javascript
 - 📫 How to reach me: discord is ragemode4562
 
